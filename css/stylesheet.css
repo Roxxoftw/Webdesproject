@@ -1,0 +1,146 @@
+	.topnav a.active {
+
+  color: black;
+
+}
+
+.topnav a {
+	text-align: center;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+	padding: 25px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+	
+}
+
+
+.topnav {
+	
+	width: 100%;
+  overflow: hidden;
+  background-color:#3677D0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.header1c {
+				font-size: 30px;
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+				color: #000000;	
+				text-align : center;
+}
+
+.header2c {
+				font-size: 30px;
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+				color: #000000;	
+				text-align : center;
+}
+.subtitles{
+				font-size: 23px;
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+				color: grey;	
+				text-align : center;
+
+}
+
+.subtitles2{
+				font-size: 18px;
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+				color: grey;	
+				text-align : center;
+
+}
+
+.centeredtext {
+   				 position: absolute;
+  				 top: 50%;
+   				 left: 50%;
+    			 transform: translate(-50%, -50%);
+}
+
+.navigationtext{
+				font-size: 15px;
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+				color: grey;	
+				text-align : center;
+
+}
+
+.tablecenter {
+    margin: 0 auto;
+   cellpadding: 30px;
+   cellspacing: 30px;
+ border: 1px solid black;
+}
+
+table{
+	margin: 0 auto;
+   cellpadding: 30px;
+   cellspacing: 30px;
+}
+
+.subtitles3 {
+				font-size: 18px;
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+				color: skyblue;	
+				text-align : center;
+}
+
+.centervid{
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.sidenav {
+    width: 90px;
+    position: fixed;
+    z-index: 1;
+    top: 53px;
+    left: 10px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+    
+}
+
+.sidenav a {
+    padding: 3px 3px 3px 3px;
+    font-size: 15px;
+    color: black;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #064579;
+
+.main{
+margin-left: 40px;
+}
+
+body{
+background-image: url("guidebg.jpg");
+}
+
+.intro {	
+
+		padding-top: 50px;
+		padding-bottom: 50px;
+    background-color: black;
+}
